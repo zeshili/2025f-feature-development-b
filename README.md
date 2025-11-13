@@ -26,7 +26,7 @@ A simple Flask-based web application that fetches real-time weather data using t
 
 ### 1. Clone the repository
 ```
-git clone <repo-url>
+git clone <https://github.com/rachanahegde/python-weather-app.git>
 cd python-weather-app
 ```
 
@@ -55,9 +55,16 @@ Get a free API key at: https://openweathermap.org/api
 
 ---
 
-## Running the App
+## Run the App
+
+### Mac / Linux
 ```
 python3 main.py
+```
+
+### Windows
+```
+python main.py
 ```
 
 Then open in your browser:
